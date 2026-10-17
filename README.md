@@ -5,4 +5,5 @@
 線上觀看：https://iweilai0924.github.io/numinai-math-talk/
 
 - 方向鍵或點一下：換頁、揭曉下一步
-- F：全螢幕
+- O：全部頁面總覽（Esc 關閉）
+- 全螢幕：Mac 按 Control+Command+F，Windows 按 F11
